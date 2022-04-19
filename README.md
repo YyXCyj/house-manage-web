@@ -2,9 +2,13 @@
 
 好客房租是直接促成房东与租户对接的生活服务平台，它包含房东发布房源，租户多维度寻找房源，智能匹配房源，近期行情查询等功能，减少中间环节产生的费用，提高房东与租户匹配的成功率.
 
-采用了SOA架构思想进行设计，采用SpringBoot、SpringMVC、Mybaits、Dubbo等技术框架实现，好客租房直接促成房东与租户对接的生活服务平台。这部分就是项目的前端界面展示。
+采用了SOA架构思想进行设计，采用SpringBoot、SpringMVC、Mybaits、Dubbo等技术框架实现，好客租房直接促成房东与租户对接的生活服务平台。
+
+这部分就是项目的前端界面展示,基于Ant Design的一个开箱即用的，企业级中后台前端/设计解决方案。
 
 Ant Design是阿里蚂蚁金服团队基于React开发的ui组件，主要用于中后台系统的使用。
+
+(https://github.com/YyXCyj/house-manage-web/blob/master/22.png)
 
 官网：https://ant.design/index-cn
 
@@ -27,3 +31,4 @@ Ant Design是阿里蚂蚁金服团队基于React开发的ui组件，主要用于
 >>使用 TypeScript 构建，提供完整的类型定义文件。
 >>
 >>全链路开发和设计工具体系。
+
