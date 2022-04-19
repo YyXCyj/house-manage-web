@@ -8,7 +8,7 @@
 
 Ant Design是阿里蚂蚁金服团队基于React开发的ui组件，主要用于中后台系统的使用。
 
-(https://github.com/YyXCyj/house-manage-web/blob/master/22.png)
+![](https://github.com/YyXCyj/house-manage-web/blob/master/22.png)
 
 官网：https://ant.design/index-cn
 
